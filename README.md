@@ -1,5 +1,5 @@
 # Subdomain Recon
-Get screenshots for validated subdomains
+Get validated subdomains list and screenshots
 
 ## Usage
 
